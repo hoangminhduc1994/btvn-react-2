@@ -71,7 +71,7 @@ Props (properties) là các tham số được truyền vào component từ comp
 - Strict Mode là một công cụ giúp phát hiện các vấn đề tiềm ẩn trong ứng dụng React của bạn. Nó giúp bạn nhận diện các phần của ứng dụng có thể gặp vấn đề trong tương lai.
 
 ## câu 4: Phân biệt Real DOM và Virtual DOM ?
-# So sánh Real DOM và Virtual DOM
+### So sánh Real DOM và Virtual DOM
 | Tiêu chí        | Real DOM                                     | Virtual DOM                                   |
 |-----------------|----------------------------------------------|----------------------------------------------|
 | **Định nghĩa**  | Mô hình đối tượng tài liệu thực được trình duyệt sử dụng | Bản sao nhẹ của DOM thực được lưu trữ trong bộ nhớ |
