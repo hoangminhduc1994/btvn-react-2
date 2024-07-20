@@ -72,8 +72,6 @@ Props (properties) là các tham số được truyền vào component từ comp
 
 ## câu 4: Phân biệt Real DOM và Virtual DOM ?
 # So sánh Real DOM và Virtual DOM
-# So sánh Real DOM và Virtual DOM
-
 | Tiêu chí        | Real DOM                                     | Virtual DOM                                   |
 |-----------------|----------------------------------------------|----------------------------------------------|
 | **Định nghĩa**  | Mô hình đối tượng tài liệu thực được trình duyệt sử dụng | Bản sao nhẹ của DOM thực được lưu trữ trong bộ nhớ |
